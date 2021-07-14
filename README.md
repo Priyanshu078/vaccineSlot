@@ -1,6 +1,15 @@
-# vaccine
+# vaccine Slot Finding App
 
-A new Flutter project.
+This is a flutter app which is developed using Cowin API in which we can see the vaccine slots by using the date and the pincode of the city
+
+Screen to enter pincode and date
+
+![pincodeanddate](https://user-images.githubusercontent.com/66347715/125621180-b2193db2-9bb2-45a0-82b8-b9c2e085d607.png)
+
+Vaccine Slots
+
+![doses](https://user-images.githubusercontent.com/66347715/125621206-5d225edb-0fc9-44d5-93ac-d761e3192298.png)
+
 
 ## Getting Started
 
